@@ -29,7 +29,7 @@
     "start": "node scripts/start.js",
     "clean": "rimraf ./build",
     "compress": "gzipper ./build",
-    "build": "NODE_OPTIONS='--openssl-legacy-provider' npm run clean && node scripts/build.js && npm run compress",
+    "build": "npm run clean && node scripts/build.js && npm run compress",
     "analyze": "npm run build && source-map-explorer \"build/static/js/*.js\""
   },
   "eslintConfig": {
