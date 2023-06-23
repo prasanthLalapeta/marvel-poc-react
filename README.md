@@ -53,4 +53,4 @@ Builds the app folder for production to the `build` folder.<br>
 
 See the magic and have a fun with clean and fresh UI
 
-<p align="center">😊Pull requests accepted with ❤️ - Team Fidisys</p>
+<p align="center">😊Pull requests accepted with ❤️ - Prasanth</p>
